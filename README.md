@@ -1,4 +1,4 @@
-# Python Tetris Game
+# Tetris Game
 
 A simple implementation of the classic Tetris game using Python and Pygame.
 
